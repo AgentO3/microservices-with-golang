@@ -44,4 +44,4 @@
 - Pull deployable from binary repo
 - Binary should get it's config from env vars
 - Deployment biss with no runtime dependencies
-- Don't need containers but works fine is that's your deployment method
+- Don't need containers but works fine if that's your deployment method
